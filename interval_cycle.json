@@ -1,0 +1,20 @@
+{
+  "id": "interval_cycle",
+  "name": "Interval Cycle",
+  "version": "1.0.0",
+  "author": "Mandrusian",
+  "description": "Repeating work/rest intervals with phase tracking and pause.",
+  "file": "interval_cycle.py",
+  "sha256": "df7ec238542e883fa7882f3efed2cf6498a708b6b66d3cea1798fca5d71e8862",
+  "permissions": [],
+  "homepage": "https://plugin.mandrusia.tech",
+  "category": "Productivity",
+  "icon": "◷",
+  "tags": [
+    "productivity",
+    "cairo",
+    "glass",
+    "local"
+  ],
+  "size_bytes": 6609
+}

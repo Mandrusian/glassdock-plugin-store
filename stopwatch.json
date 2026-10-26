@@ -1,0 +1,20 @@
+{
+  "id": "stopwatch",
+  "name": "Glass Stopwatch",
+  "version": "1.0.0",
+  "author": "Mandrusian",
+  "description": "Compact stopwatch with pause, reset, and accumulated timing.",
+  "file": "stopwatch.py",
+  "sha256": "04259fa64a9daa30398ee7d0e26b75690b8535cd15db7b7a1c9906a9ea599428",
+  "permissions": [],
+  "homepage": "https://plugin.mandrusia.tech",
+  "category": "Productivity",
+  "icon": "◷",
+  "tags": [
+    "productivity",
+    "cairo",
+    "glass",
+    "local"
+  ],
+  "size_bytes": 6120
+}

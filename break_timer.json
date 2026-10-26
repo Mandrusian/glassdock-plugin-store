@@ -1,0 +1,20 @@
+{
+  "id": "break_timer",
+  "name": "Break Timer",
+  "version": "1.0.0",
+  "author": "Mandrusian",
+  "description": "A calmer short-break countdown with a progress bar.",
+  "file": "break_timer.py",
+  "sha256": "93fc90861f05178b731718e665637bfa4f4ef08b0d159222a3068954d8409a3b",
+  "permissions": [],
+  "homepage": "https://plugin.mandrusia.tech",
+  "category": "Productivity",
+  "icon": "◷",
+  "tags": [
+    "productivity",
+    "cairo",
+    "glass",
+    "local"
+  ],
+  "size_bytes": 6466
+}

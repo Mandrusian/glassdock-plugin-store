@@ -1,0 +1,20 @@
+{
+  "id": "day_progress",
+  "name": "Day Progress",
+  "version": "1.0.0",
+  "author": "Mandrusian",
+  "description": "Progress of the local day represented as a soft horizon line.",
+  "file": "day_progress.py",
+  "sha256": "196f251f68529c7cef3d36a476a7cd3edf5e763f0a477f661ceb4d1cd6490994",
+  "permissions": [],
+  "homepage": "https://plugin.mandrusia.tech",
+  "category": "Time",
+  "icon": "◴",
+  "tags": [
+    "time",
+    "cairo",
+    "glass",
+    "local"
+  ],
+  "size_bytes": 5823
+}

@@ -1,0 +1,20 @@
+{
+  "id": "net_peaks",
+  "name": "Network Peaks",
+  "version": "1.0.0",
+  "author": "Mandrusian",
+  "description": "Tracks maximum observed transfer rates since the plugin loaded.",
+  "file": "net_peaks.py",
+  "sha256": "71c2447409e89771f69f005fd05916fea58b860a276978c874e8db4f8394b184",
+  "permissions": [],
+  "homepage": "https://plugin.mandrusia.tech",
+  "category": "Network",
+  "icon": "⌁",
+  "tags": [
+    "network",
+    "cairo",
+    "glass",
+    "local"
+  ],
+  "size_bytes": 6171
+}

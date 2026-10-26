@@ -1,0 +1,20 @@
+{
+  "id": "ambient_orbits",
+  "name": "Ambient Orbits",
+  "version": "1.0.0",
+  "author": "Mandrusian",
+  "description": "Decorative orbit particles that inherit the GlassDock theme accent.",
+  "file": "ambient_orbits.py",
+  "sha256": "2b0de953b92fa156ade59b66b7825a6963f2c43ce149dcd7d20057e7d3a5f606",
+  "permissions": [],
+  "homepage": "https://plugin.mandrusia.tech",
+  "category": "Ambient",
+  "icon": "✳",
+  "tags": [
+    "ambient",
+    "cairo",
+    "glass",
+    "local"
+  ],
+  "size_bytes": 6212
+}

@@ -1,0 +1,20 @@
+{
+  "id": "thermal_trail",
+  "name": "Thermal Trail",
+  "version": "1.0.0",
+  "author": "Mandrusian",
+  "description": "Scrolling local temperature history, collected in this plugin session.",
+  "file": "thermal_trail.py",
+  "sha256": "e295672a5829ad83750c0590653e5af97fe280ecfeddbc80fe20f7cb83dae110",
+  "permissions": [],
+  "homepage": "https://plugin.mandrusia.tech",
+  "category": "Thermal",
+  "icon": "♨",
+  "tags": [
+    "thermal",
+    "cairo",
+    "glass",
+    "local"
+  ],
+  "size_bytes": 6025
+}

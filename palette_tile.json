@@ -1,0 +1,20 @@
+{
+  "id": "palette_tile",
+  "name": "Palette Tile",
+  "version": "1.0.0",
+  "author": "Mandrusian",
+  "description": "Instant theme colour swatch display; click to cycle palette entries.",
+  "file": "palette_tile.py",
+  "sha256": "1ba7489cce070b39f3906b7f79868589e2f945666c981ebba6a642dbae4330df",
+  "permissions": [],
+  "homepage": "https://plugin.mandrusia.tech",
+  "category": "Personalisation",
+  "icon": "✦",
+  "tags": [
+    "personalisation",
+    "cairo",
+    "glass",
+    "local"
+  ],
+  "size_bytes": 5779
+}

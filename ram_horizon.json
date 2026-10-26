@@ -1,0 +1,20 @@
+{
+  "id": "ram_horizon",
+  "name": "RAM Horizon",
+  "version": "1.0.0",
+  "author": "Mandrusian",
+  "description": "Minimal used/free split with optional gigabyte readout.",
+  "file": "ram_horizon.py",
+  "sha256": "64bb387a587c4211d8ceae3c55e076f6be0cf5deea716799a61cc85e04b97138",
+  "permissions": [],
+  "homepage": "https://plugin.mandrusia.tech",
+  "category": "Memory",
+  "icon": "◉",
+  "tags": [
+    "memory",
+    "cairo",
+    "glass",
+    "local"
+  ],
+  "size_bytes": 5910
+}

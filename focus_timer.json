@@ -1,0 +1,20 @@
+{
+  "id": "focus_timer",
+  "name": "Focus Timer",
+  "version": "1.0.0",
+  "author": "Mandrusian",
+  "description": "Start/pause/reset a clean focus countdown using local time.",
+  "file": "focus_timer.py",
+  "sha256": "39a762734a407a6c2f0d58dfa85424a785e83a5ab7485506519b9bac395748ad",
+  "permissions": [],
+  "homepage": "https://plugin.mandrusia.tech",
+  "category": "Productivity",
+  "icon": "◷",
+  "tags": [
+    "productivity",
+    "cairo",
+    "glass",
+    "local"
+  ],
+  "size_bytes": 6537
+}

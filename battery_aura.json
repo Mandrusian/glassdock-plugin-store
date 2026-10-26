@@ -1,0 +1,20 @@
+{
+  "id": "battery_aura",
+  "name": "Battery Aura",
+  "version": "1.0.0",
+  "author": "Mandrusian",
+  "description": "Concentric battery charge halo with charging animation.",
+  "file": "battery_aura.py",
+  "sha256": "cfdec661b81a50be73da32406dd63ca0a80640578d313dd01c48138b25641a17",
+  "permissions": [],
+  "homepage": "https://plugin.mandrusia.tech",
+  "category": "Power",
+  "icon": "ϟ",
+  "tags": [
+    "power",
+    "cairo",
+    "glass",
+    "local"
+  ],
+  "size_bytes": 6116
+}

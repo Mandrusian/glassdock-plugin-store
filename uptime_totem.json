@@ -1,0 +1,20 @@
+{
+  "id": "uptime_totem",
+  "name": "Uptime Totem",
+  "version": "1.0.0",
+  "author": "Mandrusian",
+  "description": "Clean days-hours uptime badge using the cached kernel uptime.",
+  "file": "uptime_totem.py",
+  "sha256": "e4fe97e62e2afe435ac844cc3955730c5355ecf124333f5c2c82c447aa24c33f",
+  "permissions": [],
+  "homepage": "https://plugin.mandrusia.tech",
+  "category": "System",
+  "icon": "⌘",
+  "tags": [
+    "system",
+    "cairo",
+    "glass",
+    "local"
+  ],
+  "size_bytes": 5760
+}

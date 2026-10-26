@@ -1,0 +1,20 @@
+{
+  "id": "last_launch",
+  "name": "Last Launch",
+  "version": "1.0.0",
+  "author": "Mandrusian",
+  "description": "Most recent app recorded among the top 100 dock-launched apps.",
+  "file": "last_launch.py",
+  "sha256": "2e3711a85e6a4d8daf148a6258261cb1d4919d338443d51fc1f3f0a3f4982c4c",
+  "permissions": [],
+  "homepage": "https://plugin.mandrusia.tech",
+  "category": "Activity",
+  "icon": "▤",
+  "tags": [
+    "activity",
+    "cairo",
+    "glass",
+    "local"
+  ],
+  "size_bytes": 6170
+}

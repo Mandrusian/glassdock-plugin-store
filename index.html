@@ -1,0 +1,57 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#0a0d16">
+  <meta name="description" content="Official GlassDock Python plugin directory. Browse 27 glass-style dock widgets, review source and install in GlassDock.">
+  <title>GlassDock · Plugin Store</title>
+  <link rel="stylesheet" href="styles.css">
+  <script src="app.js" defer></script>
+</head>
+<body>
+<div class="background-glow" aria-hidden="true"></div>
+<div class="page">
+  <header class="site-header">
+    <a href="/" class="brand" aria-label="GlassDock plugins home">
+      <span class="brand-mark" aria-hidden="true"><span></span><span></span><span></span></span>
+      <span>GlassDock <span class="brand-muted">/ Plugins</span></span>
+    </a>
+    <nav aria-label="Primary">
+      <a href="#collection">Explore</a>
+      <a href="#install">Install</a>
+      <a href="https://github.com/Mandrusian/GlassDock" target="_blank" rel="noopener noreferrer">GitHub ↗</a>
+    </nav>
+  </header>
+  <main>
+    <section class="hero">
+      <div class="eyebrow"><span class="pulse-dot"></span> THE GLASSDOCK COLLECTION <span class="eyebrow-version">v1.0</span></div>
+      <h1>Your dock, <em>your way.</em></h1>
+      <p class="lead">Beautiful little things for your desktop. Discover independent Python widgets, explore their source and install only what you want.</p>
+      <div class="hero-actions"><a href="#collection" class="primary-button">Explore plugins <span aria-hidden="true">↘</span></a><a class="outline-button" href="#install">How to install</a></div>
+      <div class="hero-metrics"><div><strong id="total-count">27</strong><span>Free plugins</span></div><div><strong>0</strong><span>Elevated permissions</span></div><div><strong>Open</strong><span>Python source</span></div></div>
+      <div class="hero-orb" aria-hidden="true"><div class="orb-core"><div class="orb-ring"></div><div class="orb-mark">G</div></div><div class="orb-glint"></div></div>
+    </section>
+    <section id="collection" class="collection">
+      <div class="section-heading"><div><div class="kicker">THE LIBRARY</div><h2>Plugins worth a place on your dock.</h2></div><p id="result-count" role="status">27 plugins</p></div>
+      <div class="controls">
+        <label class="search-box"><span aria-hidden="true">⌕</span><span class="sr-only">Search plugins</span><input id="search" type="search" placeholder="Search plugins, categories or features…" autocomplete="off"></label>
+        <label class="sort-box"><span class="sr-only">Sort plugins</span><select id="sort"><option value="featured">Featured order</option><option value="az">Name A–Z</option><option value="category">Category</option></select></label>
+      </div>
+      <div id="filters" class="filters" aria-label="Plugin category filters"></div>
+      <div id="grid" class="plugin-grid" aria-live="polite"><p class="loading">Loading plugin catalogue…</p></div>
+      <p id="empty" class="empty" hidden>No matching plugins. Try another search or category.</p>
+    </section>
+    <section id="install" class="install">
+      <div class="install-head"><div class="kicker">GET STARTED</div><h2>Pick a plugin. Make it yours.</h2><p>GlassDock's store reads this site's <code>index.json</code>. Individual <code>.py</code> files are verified by SHA-256 before installation.</p></div>
+      <div class="steps"><article><span class="step-number">01</span><h3>Open GlassDock</h3><p>Go to <strong>Settings → Extensions → Manage plugins…</strong>.</p></article><article><span class="step-number">02</span><h3>Browse the store</h3><p>Select <strong>Browse plugin store…</strong> and use the store address below.</p></article><article><span class="step-number">03</span><h3>Review & enable</h3><p>Inspect the source and approve only the widgets you trust. Plugins run as your user, not in a sandbox.</p></article></div>
+      <div class="store-url"><span>STORE URL</span><code id="store-address">https://plugin.mandrusia.tech</code><button id="copy-store" type="button">Copy address</button></div>
+    </section>
+  </main>
+  <footer><span>GlassDock · Made to make the everyday nicer.</span><span>Open source · Python · Cairo · Not sandboxed</span></footer>
+</div>
+<dialog id="details" aria-label="Plugin details">
+  <div class="dialog-content"><button id="close-details" class="close-details" type="button" aria-label="Close details">×</button><div id="detail-body"></div></div>
+</dialog>
+</body>
+</html>

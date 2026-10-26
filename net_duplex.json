@@ -1,0 +1,20 @@
+{
+  "id": "net_duplex",
+  "name": "Network Duplex",
+  "version": "1.0.0",
+  "author": "Mandrusian",
+  "description": "Separate download and upload lanes in live bytes/second.",
+  "file": "net_duplex.py",
+  "sha256": "8ad297aecc48aef76e1dac8fb47e897d381c4ad04bb9b3b16f9dcf5523da548f",
+  "permissions": [],
+  "homepage": "https://plugin.mandrusia.tech",
+  "category": "Network",
+  "icon": "⌁",
+  "tags": [
+    "network",
+    "cairo",
+    "glass",
+    "local"
+  ],
+  "size_bytes": 5877
+}

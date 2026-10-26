@@ -1,0 +1,20 @@
+{
+  "id": "uptime_goal",
+  "name": "Uptime Milestone",
+  "version": "1.0.0",
+  "author": "Mandrusian",
+  "description": "Shows progress towards a configurable uptime milestone.",
+  "file": "uptime_goal.py",
+  "sha256": "dcb7345bf5bf356135d83c5d7e3b9fe94db741e7465bb3d27c7561d8d22de297",
+  "permissions": [],
+  "homepage": "https://plugin.mandrusia.tech",
+  "category": "System",
+  "icon": "⌘",
+  "tags": [
+    "system",
+    "cairo",
+    "glass",
+    "local"
+  ],
+  "size_bytes": 5791
+}

@@ -1,0 +1,20 @@
+{
+  "id": "week_progress",
+  "name": "Week Progress",
+  "version": "1.0.0",
+  "author": "Mandrusian",
+  "description": "Monday-to-Sunday week arc showing elapsed local time.",
+  "file": "week_progress.py",
+  "sha256": "9cd4f776f4d3973f8edf94f44fb33dba2bee713f663d923fb1d673248168e43b",
+  "permissions": [],
+  "homepage": "https://plugin.mandrusia.tech",
+  "category": "Time",
+  "icon": "◴",
+  "tags": [
+    "time",
+    "cairo",
+    "glass",
+    "local"
+  ],
+  "size_bytes": 5806
+}

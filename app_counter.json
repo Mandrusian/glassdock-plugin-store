@@ -1,0 +1,20 @@
+{
+  "id": "app_counter",
+  "name": "App Counter",
+  "version": "1.0.0",
+  "author": "Mandrusian",
+  "description": "Track one specific desktop app’s launch count (dock launches only).",
+  "file": "app_counter.py",
+  "sha256": "baa6ba5eaee0039a7b8de420f7d51d9835f13430543ca1c9e2d3f358b1f39942",
+  "permissions": [],
+  "homepage": "https://plugin.mandrusia.tech",
+  "category": "Activity",
+  "icon": "▤",
+  "tags": [
+    "activity",
+    "cairo",
+    "glass",
+    "local"
+  ],
+  "size_bytes": 5917
+}

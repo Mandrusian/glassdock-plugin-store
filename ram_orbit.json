@@ -1,0 +1,20 @@
+{
+  "id": "ram_orbit",
+  "name": "RAM Orbit",
+  "version": "1.0.0",
+  "author": "Mandrusian",
+  "description": "Glowing memory occupancy ring with precise used/total tooltip.",
+  "file": "ram_orbit.py",
+  "sha256": "b3cf8829256c5f1653e3a06089f1b894c74649d24e97f717cd2c133b7648d001",
+  "permissions": [],
+  "homepage": "https://plugin.mandrusia.tech",
+  "category": "Memory",
+  "icon": "◉",
+  "tags": [
+    "memory",
+    "cairo",
+    "glass",
+    "local"
+  ],
+  "size_bytes": 5932
+}

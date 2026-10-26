@@ -1,0 +1,544 @@
+{
+  "plugins": [
+    {
+      "id": "ram_orbit",
+      "name": "RAM Orbit",
+      "version": "1.0.0",
+      "author": "Mandrusian",
+      "description": "Glowing memory occupancy ring with precise used/total tooltip.",
+      "file": "ram_orbit.py",
+      "sha256": "b3cf8829256c5f1653e3a06089f1b894c74649d24e97f717cd2c133b7648d001",
+      "permissions": [],
+      "homepage": "https://plugin.mandrusia.tech",
+      "category": "Memory",
+      "icon": "◉",
+      "tags": [
+        "memory",
+        "cairo",
+        "glass",
+        "local"
+      ],
+      "size_bytes": 5932
+    },
+    {
+      "id": "ram_horizon",
+      "name": "RAM Horizon",
+      "version": "1.0.0",
+      "author": "Mandrusian",
+      "description": "Minimal used/free split with optional gigabyte readout.",
+      "file": "ram_horizon.py",
+      "sha256": "64bb387a587c4211d8ceae3c55e076f6be0cf5deea716799a61cc85e04b97138",
+      "permissions": [],
+      "homepage": "https://plugin.mandrusia.tech",
+      "category": "Memory",
+      "icon": "◉",
+      "tags": [
+        "memory",
+        "cairo",
+        "glass",
+        "local"
+      ],
+      "size_bytes": 5910
+    },
+    {
+      "id": "thermal_arc",
+      "name": "Thermal Arc",
+      "version": "1.0.0",
+      "author": "Mandrusian",
+      "description": "Semicircular hottest-sensor thermal gauge with configurable warning point.",
+      "file": "thermal_arc.py",
+      "sha256": "03af050f49c1c3820fde00334f16ebfbe95641a4bb1e8b60969136d953bf87ff",
+      "permissions": [],
+      "homepage": "https://plugin.mandrusia.tech",
+      "category": "Thermal",
+      "icon": "♨",
+      "tags": [
+        "thermal",
+        "cairo",
+        "glass",
+        "local"
+      ],
+      "size_bytes": 5892
+    },
+    {
+      "id": "thermal_trail",
+      "name": "Thermal Trail",
+      "version": "1.0.0",
+      "author": "Mandrusian",
+      "description": "Scrolling local temperature history, collected in this plugin session.",
+      "file": "thermal_trail.py",
+      "sha256": "e295672a5829ad83750c0590653e5af97fe280ecfeddbc80fe20f7cb83dae110",
+      "permissions": [],
+      "homepage": "https://plugin.mandrusia.tech",
+      "category": "Thermal",
+      "icon": "♨",
+      "tags": [
+        "thermal",
+        "cairo",
+        "glass",
+        "local"
+      ],
+      "size_bytes": 6025
+    },
+    {
+      "id": "battery_capsule",
+      "name": "Battery Capsule",
+      "version": "1.0.0",
+      "author": "Mandrusian",
+      "description": "Frosted hardware-cell fill and charge state.",
+      "file": "battery_capsule.py",
+      "sha256": "2952d19ebcecdf382a1648a029abd97a9f8c41ba535706383472b81981c7bfa7",
+      "permissions": [],
+      "homepage": "https://plugin.mandrusia.tech",
+      "category": "Power",
+      "icon": "ϟ",
+      "tags": [
+        "power",
+        "cairo",
+        "glass",
+        "local"
+      ],
+      "size_bytes": 6171
+    },
+    {
+      "id": "battery_aura",
+      "name": "Battery Aura",
+      "version": "1.0.0",
+      "author": "Mandrusian",
+      "description": "Concentric battery charge halo with charging animation.",
+      "file": "battery_aura.py",
+      "sha256": "cfdec661b81a50be73da32406dd63ca0a80640578d313dd01c48138b25641a17",
+      "permissions": [],
+      "homepage": "https://plugin.mandrusia.tech",
+      "category": "Power",
+      "icon": "ϟ",
+      "tags": [
+        "power",
+        "cairo",
+        "glass",
+        "local"
+      ],
+      "size_bytes": 6116
+    },
+    {
+      "id": "net_duplex",
+      "name": "Network Duplex",
+      "version": "1.0.0",
+      "author": "Mandrusian",
+      "description": "Separate download and upload lanes in live bytes/second.",
+      "file": "net_duplex.py",
+      "sha256": "8ad297aecc48aef76e1dac8fb47e897d381c4ad04bb9b3b16f9dcf5523da548f",
+      "permissions": [],
+      "homepage": "https://plugin.mandrusia.tech",
+      "category": "Network",
+      "icon": "⌁",
+      "tags": [
+        "network",
+        "cairo",
+        "glass",
+        "local"
+      ],
+      "size_bytes": 5877
+    },
+    {
+      "id": "net_trace",
+      "name": "Network Trace",
+      "version": "1.0.0",
+      "author": "Mandrusian",
+      "description": "Dual history lines for download/upload, no packet capture.",
+      "file": "net_trace.py",
+      "sha256": "b4b1cc4d1ba0aa1bc94b9da03558da295e600e205e339dc0988b98b658f43862",
+      "permissions": [],
+      "homepage": "https://plugin.mandrusia.tech",
+      "category": "Network",
+      "icon": "⌁",
+      "tags": [
+        "network",
+        "cairo",
+        "glass",
+        "local"
+      ],
+      "size_bytes": 6069
+    },
+    {
+      "id": "net_peaks",
+      "name": "Network Peaks",
+      "version": "1.0.0",
+      "author": "Mandrusian",
+      "description": "Tracks maximum observed transfer rates since the plugin loaded.",
+      "file": "net_peaks.py",
+      "sha256": "71c2447409e89771f69f005fd05916fea58b860a276978c874e8db4f8394b184",
+      "permissions": [],
+      "homepage": "https://plugin.mandrusia.tech",
+      "category": "Network",
+      "icon": "⌁",
+      "tags": [
+        "network",
+        "cairo",
+        "glass",
+        "local"
+      ],
+      "size_bytes": 6171
+    },
+    {
+      "id": "uptime_totem",
+      "name": "Uptime Totem",
+      "version": "1.0.0",
+      "author": "Mandrusian",
+      "description": "Clean days-hours uptime badge using the cached kernel uptime.",
+      "file": "uptime_totem.py",
+      "sha256": "e4fe97e62e2afe435ac844cc3955730c5355ecf124333f5c2c82c447aa24c33f",
+      "permissions": [],
+      "homepage": "https://plugin.mandrusia.tech",
+      "category": "System",
+      "icon": "⌘",
+      "tags": [
+        "system",
+        "cairo",
+        "glass",
+        "local"
+      ],
+      "size_bytes": 5760
+    },
+    {
+      "id": "uptime_goal",
+      "name": "Uptime Milestone",
+      "version": "1.0.0",
+      "author": "Mandrusian",
+      "description": "Shows progress towards a configurable uptime milestone.",
+      "file": "uptime_goal.py",
+      "sha256": "dcb7345bf5bf356135d83c5d7e3b9fe94db741e7465bb3d27c7561d8d22de297",
+      "permissions": [],
+      "homepage": "https://plugin.mandrusia.tech",
+      "category": "System",
+      "icon": "⌘",
+      "tags": [
+        "system",
+        "cairo",
+        "glass",
+        "local"
+      ],
+      "size_bytes": 5791
+    },
+    {
+      "id": "system_glance",
+      "name": "System Glance",
+      "version": "1.0.0",
+      "author": "Mandrusian",
+      "description": "One-tile overview of RAM, heat, battery and network throughput.",
+      "file": "system_glance.py",
+      "sha256": "d744cec9f13fa53a87ed65207b40ebc5fc8c13c793db58299b62a75713feee80",
+      "permissions": [],
+      "homepage": "https://plugin.mandrusia.tech",
+      "category": "System",
+      "icon": "⌘",
+      "tags": [
+        "system",
+        "cairo",
+        "glass",
+        "local"
+      ],
+      "size_bytes": 6182
+    },
+    {
+      "id": "last_launch",
+      "name": "Last Launch",
+      "version": "1.0.0",
+      "author": "Mandrusian",
+      "description": "Most recent app recorded among the top 100 dock-launched apps.",
+      "file": "last_launch.py",
+      "sha256": "2e3711a85e6a4d8daf148a6258261cb1d4919d338443d51fc1f3f0a3f4982c4c",
+      "permissions": [],
+      "homepage": "https://plugin.mandrusia.tech",
+      "category": "Activity",
+      "icon": "▤",
+      "tags": [
+        "activity",
+        "cairo",
+        "glass",
+        "local"
+      ],
+      "size_bytes": 6170
+    },
+    {
+      "id": "app_counter",
+      "name": "App Counter",
+      "version": "1.0.0",
+      "author": "Mandrusian",
+      "description": "Track one specific desktop app’s launch count (dock launches only).",
+      "file": "app_counter.py",
+      "sha256": "baa6ba5eaee0039a7b8de420f7d51d9835f13430543ca1c9e2d3f358b1f39942",
+      "permissions": [],
+      "homepage": "https://plugin.mandrusia.tech",
+      "category": "Activity",
+      "icon": "▤",
+      "tags": [
+        "activity",
+        "cairo",
+        "glass",
+        "local"
+      ],
+      "size_bytes": 5917
+    },
+    {
+      "id": "focus_timer",
+      "name": "Focus Timer",
+      "version": "1.0.0",
+      "author": "Mandrusian",
+      "description": "Start/pause/reset a clean focus countdown using local time.",
+      "file": "focus_timer.py",
+      "sha256": "39a762734a407a6c2f0d58dfa85424a785e83a5ab7485506519b9bac395748ad",
+      "permissions": [],
+      "homepage": "https://plugin.mandrusia.tech",
+      "category": "Productivity",
+      "icon": "◷",
+      "tags": [
+        "productivity",
+        "cairo",
+        "glass",
+        "local"
+      ],
+      "size_bytes": 6537
+    },
+    {
+      "id": "break_timer",
+      "name": "Break Timer",
+      "version": "1.0.0",
+      "author": "Mandrusian",
+      "description": "A calmer short-break countdown with a progress bar.",
+      "file": "break_timer.py",
+      "sha256": "93fc90861f05178b731718e665637bfa4f4ef08b0d159222a3068954d8409a3b",
+      "permissions": [],
+      "homepage": "https://plugin.mandrusia.tech",
+      "category": "Productivity",
+      "icon": "◷",
+      "tags": [
+        "productivity",
+        "cairo",
+        "glass",
+        "local"
+      ],
+      "size_bytes": 6466
+    },
+    {
+      "id": "stopwatch",
+      "name": "Glass Stopwatch",
+      "version": "1.0.0",
+      "author": "Mandrusian",
+      "description": "Compact stopwatch with pause, reset, and accumulated timing.",
+      "file": "stopwatch.py",
+      "sha256": "04259fa64a9daa30398ee7d0e26b75690b8535cd15db7b7a1c9906a9ea599428",
+      "permissions": [],
+      "homepage": "https://plugin.mandrusia.tech",
+      "category": "Productivity",
+      "icon": "◷",
+      "tags": [
+        "productivity",
+        "cairo",
+        "glass",
+        "local"
+      ],
+      "size_bytes": 6120
+    },
+    {
+      "id": "interval_cycle",
+      "name": "Interval Cycle",
+      "version": "1.0.0",
+      "author": "Mandrusian",
+      "description": "Repeating work/rest intervals with phase tracking and pause.",
+      "file": "interval_cycle.py",
+      "sha256": "df7ec238542e883fa7882f3efed2cf6498a708b6b66d3cea1798fca5d71e8862",
+      "permissions": [],
+      "homepage": "https://plugin.mandrusia.tech",
+      "category": "Productivity",
+      "icon": "◷",
+      "tags": [
+        "productivity",
+        "cairo",
+        "glass",
+        "local"
+      ],
+      "size_bytes": 6609
+    },
+    {
+      "id": "breathing_orb",
+      "name": "Breathing Orb",
+      "version": "1.0.0",
+      "author": "Mandrusian",
+      "description": "Animated inhale/exhale visual paced at configurable breathing cycles.",
+      "file": "breathing_orb.py",
+      "sha256": "8cc734e090f2aab0afcda84d416a3463a958ab1f1c182d032acde5992eddfb65",
+      "permissions": [],
+      "homepage": "https://plugin.mandrusia.tech",
+      "category": "Wellness",
+      "icon": "◎",
+      "tags": [
+        "wellness",
+        "cairo",
+        "glass",
+        "local"
+      ],
+      "size_bytes": 6438
+    },
+    {
+      "id": "day_progress",
+      "name": "Day Progress",
+      "version": "1.0.0",
+      "author": "Mandrusian",
+      "description": "Progress of the local day represented as a soft horizon line.",
+      "file": "day_progress.py",
+      "sha256": "196f251f68529c7cef3d36a476a7cd3edf5e763f0a477f661ceb4d1cd6490994",
+      "permissions": [],
+      "homepage": "https://plugin.mandrusia.tech",
+      "category": "Time",
+      "icon": "◴",
+      "tags": [
+        "time",
+        "cairo",
+        "glass",
+        "local"
+      ],
+      "size_bytes": 5823
+    },
+    {
+      "id": "week_progress",
+      "name": "Week Progress",
+      "version": "1.0.0",
+      "author": "Mandrusian",
+      "description": "Monday-to-Sunday week arc showing elapsed local time.",
+      "file": "week_progress.py",
+      "sha256": "9cd4f776f4d3973f8edf94f44fb33dba2bee713f663d923fb1d673248168e43b",
+      "permissions": [],
+      "homepage": "https://plugin.mandrusia.tech",
+      "category": "Time",
+      "icon": "◴",
+      "tags": [
+        "time",
+        "cairo",
+        "glass",
+        "local"
+      ],
+      "size_bytes": 5806
+    },
+    {
+      "id": "year_progress",
+      "name": "Year Progress",
+      "version": "1.0.0",
+      "author": "Mandrusian",
+      "description": "Annual elapsed-time mosaic with leap-year awareness.",
+      "file": "year_progress.py",
+      "sha256": "eb9f3f67256187341ca0c86c9b5b28ce45b6d93d7ea28ef9c3ffc8b928b66eb4",
+      "permissions": [],
+      "homepage": "https://plugin.mandrusia.tech",
+      "category": "Time",
+      "icon": "◴",
+      "tags": [
+        "time",
+        "cairo",
+        "glass",
+        "local"
+      ],
+      "size_bytes": 6047
+    },
+    {
+      "id": "moon_phase",
+      "name": "Moon Phase",
+      "version": "1.0.0",
+      "author": "Mandrusian",
+      "description": "Approximate lunar phase and illuminated fraction; no geolocation required.",
+      "file": "moon_phase.py",
+      "sha256": "e57ff5ab59c2b7099fa28cb830f0e86f9b30b25276789cba0bd9a334b728dbdc",
+      "permissions": [],
+      "homepage": "https://plugin.mandrusia.tech",
+      "category": "Astronomy",
+      "icon": "☾",
+      "tags": [
+        "astronomy",
+        "cairo",
+        "glass",
+        "local"
+      ],
+      "size_bytes": 6623
+    },
+    {
+      "id": "status_lamp",
+      "name": "Status Lamp",
+      "version": "1.0.0",
+      "author": "Mandrusian",
+      "description": "Interactive available/busy/away status; resets after dock restart.",
+      "file": "status_lamp.py",
+      "sha256": "630b45384ebb54fafa59dc2941d8fdb7c5ef6716f104e51627a3ea23289c162a",
+      "permissions": [],
+      "homepage": "https://plugin.mandrusia.tech",
+      "category": "Personalisation",
+      "icon": "✦",
+      "tags": [
+        "personalisation",
+        "cairo",
+        "glass",
+        "local"
+      ],
+      "size_bytes": 6114
+    },
+    {
+      "id": "palette_tile",
+      "name": "Palette Tile",
+      "version": "1.0.0",
+      "author": "Mandrusian",
+      "description": "Instant theme colour swatch display; click to cycle palette entries.",
+      "file": "palette_tile.py",
+      "sha256": "1ba7489cce070b39f3906b7f79868589e2f945666c981ebba6a642dbae4330df",
+      "permissions": [],
+      "homepage": "https://plugin.mandrusia.tech",
+      "category": "Personalisation",
+      "icon": "✦",
+      "tags": [
+        "personalisation",
+        "cairo",
+        "glass",
+        "local"
+      ],
+      "size_bytes": 5779
+    },
+    {
+      "id": "pixel_pet",
+      "name": "Pixel Companion",
+      "version": "1.0.0",
+      "author": "Mandrusian",
+      "description": "An idle/bouncy interactive pixel-face tile with 3 moods.",
+      "file": "pixel_pet.py",
+      "sha256": "09162514b0cd6ce3080f032af047f0e9f801b388653c7a03e33ef386d2560d07",
+      "permissions": [],
+      "homepage": "https://plugin.mandrusia.tech",
+      "category": "Ambient",
+      "icon": "✳",
+      "tags": [
+        "ambient",
+        "cairo",
+        "glass",
+        "local"
+      ],
+      "size_bytes": 6338
+    },
+    {
+      "id": "ambient_orbits",
+      "name": "Ambient Orbits",
+      "version": "1.0.0",
+      "author": "Mandrusian",
+      "description": "Decorative orbit particles that inherit the GlassDock theme accent.",
+      "file": "ambient_orbits.py",
+      "sha256": "2b0de953b92fa156ade59b66b7825a6963f2c43ce149dcd7d20057e7d3a5f606",
+      "permissions": [],
+      "homepage": "https://plugin.mandrusia.tech",
+      "category": "Ambient",
+      "icon": "✳",
+      "tags": [
+        "ambient",
+        "cairo",
+        "glass",
+        "local"
+      ],
+      "size_bytes": 6212
+    }
+  ]
+}

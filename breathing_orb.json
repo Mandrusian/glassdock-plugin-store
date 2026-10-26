@@ -1,0 +1,20 @@
+{
+  "id": "breathing_orb",
+  "name": "Breathing Orb",
+  "version": "1.0.0",
+  "author": "Mandrusian",
+  "description": "Animated inhale/exhale visual paced at configurable breathing cycles.",
+  "file": "breathing_orb.py",
+  "sha256": "8cc734e090f2aab0afcda84d416a3463a958ab1f1c182d032acde5992eddfb65",
+  "permissions": [],
+  "homepage": "https://plugin.mandrusia.tech",
+  "category": "Wellness",
+  "icon": "◎",
+  "tags": [
+    "wellness",
+    "cairo",
+    "glass",
+    "local"
+  ],
+  "size_bytes": 6438
+}

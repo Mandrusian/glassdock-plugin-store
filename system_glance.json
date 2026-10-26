@@ -1,0 +1,20 @@
+{
+  "id": "system_glance",
+  "name": "System Glance",
+  "version": "1.0.0",
+  "author": "Mandrusian",
+  "description": "One-tile overview of RAM, heat, battery and network throughput.",
+  "file": "system_glance.py",
+  "sha256": "d744cec9f13fa53a87ed65207b40ebc5fc8c13c793db58299b62a75713feee80",
+  "permissions": [],
+  "homepage": "https://plugin.mandrusia.tech",
+  "category": "System",
+  "icon": "⌘",
+  "tags": [
+    "system",
+    "cairo",
+    "glass",
+    "local"
+  ],
+  "size_bytes": 6182
+}

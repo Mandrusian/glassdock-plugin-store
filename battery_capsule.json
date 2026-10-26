@@ -1,0 +1,20 @@
+{
+  "id": "battery_capsule",
+  "name": "Battery Capsule",
+  "version": "1.0.0",
+  "author": "Mandrusian",
+  "description": "Frosted hardware-cell fill and charge state.",
+  "file": "battery_capsule.py",
+  "sha256": "2952d19ebcecdf382a1648a029abd97a9f8c41ba535706383472b81981c7bfa7",
+  "permissions": [],
+  "homepage": "https://plugin.mandrusia.tech",
+  "category": "Power",
+  "icon": "ϟ",
+  "tags": [
+    "power",
+    "cairo",
+    "glass",
+    "local"
+  ],
+  "size_bytes": 6171
+}

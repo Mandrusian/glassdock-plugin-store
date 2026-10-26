@@ -1,0 +1,20 @@
+{
+  "id": "thermal_arc",
+  "name": "Thermal Arc",
+  "version": "1.0.0",
+  "author": "Mandrusian",
+  "description": "Semicircular hottest-sensor thermal gauge with configurable warning point.",
+  "file": "thermal_arc.py",
+  "sha256": "03af050f49c1c3820fde00334f16ebfbe95641a4bb1e8b60969136d953bf87ff",
+  "permissions": [],
+  "homepage": "https://plugin.mandrusia.tech",
+  "category": "Thermal",
+  "icon": "♨",
+  "tags": [
+    "thermal",
+    "cairo",
+    "glass",
+    "local"
+  ],
+  "size_bytes": 5892
+}

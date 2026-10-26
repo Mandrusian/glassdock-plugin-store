@@ -1,0 +1,20 @@
+{
+  "id": "net_trace",
+  "name": "Network Trace",
+  "version": "1.0.0",
+  "author": "Mandrusian",
+  "description": "Dual history lines for download/upload, no packet capture.",
+  "file": "net_trace.py",
+  "sha256": "b4b1cc4d1ba0aa1bc94b9da03558da295e600e205e339dc0988b98b658f43862",
+  "permissions": [],
+  "homepage": "https://plugin.mandrusia.tech",
+  "category": "Network",
+  "icon": "⌁",
+  "tags": [
+    "network",
+    "cairo",
+    "glass",
+    "local"
+  ],
+  "size_bytes": 6069
+}

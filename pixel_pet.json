@@ -1,0 +1,20 @@
+{
+  "id": "pixel_pet",
+  "name": "Pixel Companion",
+  "version": "1.0.0",
+  "author": "Mandrusian",
+  "description": "An idle/bouncy interactive pixel-face tile with 3 moods.",
+  "file": "pixel_pet.py",
+  "sha256": "09162514b0cd6ce3080f032af047f0e9f801b388653c7a03e33ef386d2560d07",
+  "permissions": [],
+  "homepage": "https://plugin.mandrusia.tech",
+  "category": "Ambient",
+  "icon": "✳",
+  "tags": [
+    "ambient",
+    "cairo",
+    "glass",
+    "local"
+  ],
+  "size_bytes": 6338
+}

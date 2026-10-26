@@ -1,0 +1,20 @@
+{
+  "id": "year_progress",
+  "name": "Year Progress",
+  "version": "1.0.0",
+  "author": "Mandrusian",
+  "description": "Annual elapsed-time mosaic with leap-year awareness.",
+  "file": "year_progress.py",
+  "sha256": "eb9f3f67256187341ca0c86c9b5b28ce45b6d93d7ea28ef9c3ffc8b928b66eb4",
+  "permissions": [],
+  "homepage": "https://plugin.mandrusia.tech",
+  "category": "Time",
+  "icon": "◴",
+  "tags": [
+    "time",
+    "cairo",
+    "glass",
+    "local"
+  ],
+  "size_bytes": 6047
+}

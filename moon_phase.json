@@ -1,0 +1,20 @@
+{
+  "id": "moon_phase",
+  "name": "Moon Phase",
+  "version": "1.0.0",
+  "author": "Mandrusian",
+  "description": "Approximate lunar phase and illuminated fraction; no geolocation required.",
+  "file": "moon_phase.py",
+  "sha256": "e57ff5ab59c2b7099fa28cb830f0e86f9b30b25276789cba0bd9a334b728dbdc",
+  "permissions": [],
+  "homepage": "https://plugin.mandrusia.tech",
+  "category": "Astronomy",
+  "icon": "☾",
+  "tags": [
+    "astronomy",
+    "cairo",
+    "glass",
+    "local"
+  ],
+  "size_bytes": 6623
+}

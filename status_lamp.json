@@ -1,0 +1,20 @@
+{
+  "id": "status_lamp",
+  "name": "Status Lamp",
+  "version": "1.0.0",
+  "author": "Mandrusian",
+  "description": "Interactive available/busy/away status; resets after dock restart.",
+  "file": "status_lamp.py",
+  "sha256": "630b45384ebb54fafa59dc2941d8fdb7c5ef6716f104e51627a3ea23289c162a",
+  "permissions": [],
+  "homepage": "https://plugin.mandrusia.tech",
+  "category": "Personalisation",
+  "icon": "✦",
+  "tags": [
+    "personalisation",
+    "cairo",
+    "glass",
+    "local"
+  ],
+  "size_bytes": 6114
+}
